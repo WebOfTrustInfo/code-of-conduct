@@ -39,7 +39,7 @@ Towards the end of RWoT, the team reports the status of the draft and plans for 
 7. Once "final" lead author sends paper to all contributors for review.
     - For reasons of privacy and out of respect for individuals' affiliations, no mention of any contributor should be published without explicit approval.
 
-## Submitting for editorial eeview
+## Paper completion
 
 1. When all contributing authors have confirmed their attribution, the paper is sent to staff for final  editorial review and layout.
 2. When editorial is finished, they send the finalized paper back to lead author for review &amp; acceptance.
