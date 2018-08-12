@@ -94,4 +94,4 @@ Additional sources include:
 - [W3C Positive Work Environment](https://www.w3.org/Consortium/pwe/)
 - [Access Now Apology](https://www.accessnow.org/access-now-apology)
 
-Thanks to Kaliya Young and John Wunderlich for their assistance in developing this draft of the Code of Conduct
+Special thanks to [Kaliya Young](https://twitter.com/IdentityWoman) and [John Wunderlich](https://twitter.com/PrivacyCDN) for pointing us to valuable resources as we drafted this site documentation.
