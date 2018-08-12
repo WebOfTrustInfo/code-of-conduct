@@ -1,4 +1,4 @@
-# Rebooting Web of Trust Culture Resiliency Team
+# Rebooting Web of Trust Community Resiliency Team
 
 ## Our documents
 
