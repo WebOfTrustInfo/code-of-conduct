@@ -86,7 +86,9 @@ Our team will be happy to help you are safe immediately and for the duration of 
 
 ## License and attribution
 
-This anti-harassment policy borrows heavily from the [Decentralized Web Code of Conduct](https://decentralizedweb.net/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+This anti-harassment policy borrows heavily from the [Decentralized Web Code of Conduct](https://decentralizedweb.net/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). Thanks to both of these communities for taking the time to craft and share their guidance. 
+
+Additional thanks to [Kaliya Young](https://twitter.com/IdentityWoman) and [John Wunderlich](https://twitter.com/PrivacyCDN) for pointing the us to valuable resources as we drafted this documentation.
 
 Additional sources include:
 - [RightsCon code of conduct](https://www.rightscon.org/code-of-conduct/)
@@ -94,4 +96,4 @@ Additional sources include:
 - [W3C Positive Work Environment](https://www.w3.org/Consortium/pwe/)
 - [Access Now Apology](https://www.accessnow.org/access-now-apology)
 
-Special thanks to [Kaliya Young](https://twitter.com/IdentityWoman) and [John Wunderlich](https://twitter.com/PrivacyCDN) for pointing us to valuable resources as we drafted this site documentation.
+
