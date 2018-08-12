@@ -2,7 +2,9 @@
 
 The suggested process below is one that the RWoT community has identified as resulting in the best papers. We define &quot;best&quot; as a respectful and collaborative effort between group participants often involving healthy debate and a balanced and thoughtful end product.
 
-## Topic ideation and development (during RWoT)
+## Topic ideation and development
+
+Occurs during RWoT
 
 1. Topics are proposed by attendees interested in leading a team. This is your opportunity to step up to develop a paper as a lead author.
 2. Topics are discussed, explored, merged, and updated through a collaborative group process.
@@ -10,9 +12,10 @@ The suggested process below is one that the RWoT community has identified as res
 4. Throughout the rest of the workshop, teams develop their topics under the proposer&#39;s leadership and collaborate on an initial draft.
 5. Most teams use Google docs or something similar for real-time collaboration
 
-## Next steps (towards the end of RWoT)
+## Planning next steps
 
-Towards the end of RWoT, the team reports the status of the draft and plans for completing the paper. Specifically, team reports:
+Towards the end of RWoT, the team reports the status of the draft and plans for completing the paper. Specifically, team reports the following:
+
 1. Lead author for post-event coordination
     - The lead author is the person who will drive this process (for the group) after the event.
     - The lead author is has final editorial decision making authority over the paper.
@@ -26,7 +29,7 @@ Towards the end of RWoT, the team reports the status of the draft and plans for 
 1. Lead author facilitates ongoing collaboration among team members, through whatever tools or means they choose; this sometimes means weekly phone calls, other times, email discussion is sufficient to move the work forward.
 2. Lead author ensures that all participants have an opportunity to contribute, that all voices are respectfully heard, and that any disagreements have a reasonable airing.
 3. All authors incorporate feedback. Lead author accepts/rejects revisions with the goal of maximizing both consensus and paper quality.
-4. Lead author defines who qualifies for listing as a co-author or a collaborator, using the guidelines from the Journal of American Medical Association [https://jamanetwork.com/journals/jama/pages/instructions-for-authors#SecAuthorshipCriteriaandContributions](https://jamanetwork.com/journals/jama/pages/instructions-for-authors#SecAuthorshipCriteriaandContributions):
+4. Lead author defines who qualifies for listing as a co-author or a collaborator, using the guidelines from the [Journal of American Medical Association](https://jamanetwork.com/journals/jama/pages/instructions-for-authors#SecAuthorshipCriteriaandContributions):
     - substantial contributions to conception or design of the work, or the acquisition, analysis, or interpretation of data for the work; and
     - drafting of the work or revising it critically for important intellectual content; and
     - final approval of the version to be published; and
@@ -36,7 +39,8 @@ Towards the end of RWoT, the team reports the status of the draft and plans for 
 7. Once "final" lead author sends paper to all contributors for review.
     - For reasons of privacy and out of respect for individuals' affiliations, no mention of any contributor should be published without explicit approval.
 
-## Submitting for Editorial Review
+## Submitting for editorial eeview
+
 1. When all contributing authors have confirmed their attribution, the paper is sent to staff for final  editorial review and layout.
 2. When editorial is finished, they send the finalized paper back to lead author for review &amp; acceptance.
 3. Any final bug fixes, typos, misattributions, etc., are resolved between the lead author and editorial.
