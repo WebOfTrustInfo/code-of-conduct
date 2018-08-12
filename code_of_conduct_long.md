@@ -1,4 +1,27 @@
-# Rebooting Web of Trust Code of Conduct
+# RWoT Code of Conduct
+
+Rebooting Web of Trust events bring together people from around the world who are committed to building a new Web of Trust based on self-sovereign principles. It is a space inclusive of persons of all backgrounds, orientations and identities. Dialogue, mutual respect and sharing are at the foundation of the decentralized web community and we expect all participants to follow these values. These guidelines help us establish collective trust and engage in productive deliberation.
+
+Your safety and comfort are our priority. If you have a query or any concerns at any point before, during or after the conference, contact us at [email].
+
+## Expected Behavior
+
+1. Respect
+    - All participants should strive to treat each other with dignity and respect,regardless of gender identity and expression, sexual orientation, nationality, origin, race, ethnicity, religion, age, disability, physical appearance, or religion.
+    - When listening to input and comments of others, start by assuming the most benign interpretation and the best intention of the speaker. If comment is phrased in a way that might be misinterpreted, ask for clarification of the statement or intent. If the comment is discomforting (or hostile), please reach out to an event organizer.
+    - Respect the privacy–-both physical and digital–-of others.
+2. Collaborate
+    - Be open to new ideas and learning from others
+    - In moments of strong disagreement, we ask participants to "agree to disagree," stay focused on the goals of the session or discussion and move on to address shared needs and shared opportunities.
+    - We encourage all present to make it a point where possible to talk to strangers and those you know less well, as they are hopefully friends you have not yet met.
+3. Include
+    - Everyone at Rebooting Web of Trust events should feel included and it is to everyone’s advantage to be mindful and productively engaged with people from a variety of cultural contexts, communities and regions.
+    - When in doubt, reach out! We all have different perspectives that can help each other in worthwhile and unexpected ways.
+        - In this spirit, avoid jargon, acronyms and complicated phrasing whenever possible.
+        - Follow the "Rule of 1" and the "Rule of n": When you speak, make 1 point and then let others speak, and when in a group of "n" people, speak "1/nth" of the time.
+
+
+## Anti-harassment Policy
 
 Rebooting Web of Trust is dedicated to providing a harassment-free conference experience for everyone, regardless of gender identity and expression, sexual orientation, nationality, origin, race, ethnicity, religion, age, disability, physical appearance, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers. 
 
@@ -63,16 +86,12 @@ Our team will be happy to help you are safe immediately and for the duration of 
 
 ## License and attribution
 
-
-This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, and has heavily borrowed from the RightsCon code of conduct https://www.rightscon.org/code-of-conduct/
+This anti-harassment policy borrows heavily from the [Decentralized Web Code of Conduct](https://decentralizedweb.net/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Additional sources include:
-- https://authenticengine.com/2016/adopting-a-code-of-conduct-is-an-adaptive-challenge-not-a-technical-one/
-- https://decentralizedweb.net/conduct/
-- W3C Positive Work Environment
-    - https://www.w3.org/Consortium/pwe/
-    - https://www.w3.org/Consortium/pwe/#Procedures
-    - https://www.w3.org/Consortium/cepc/
-- https://www.accessnow.org/access-now-apology
+- [RightsCon code of conduct](https://www.rightscon.org/code-of-conduct/)
+- [Adopting a code of conduct is an adaptive challenge not a technical one](https://authenticengine.com/2016/adopting-a-code-of-conduct-is-an-adaptive-challenge-not-a-technical-one/)
+- [W3C Positive Work Environment](https://www.w3.org/Consortium/pwe/)
+- [Access Now Apology](https://www.accessnow.org/access-now-apology)
 
 Thanks to Kaliya Young and John Wunderlich for their assistance in developing this draft of the Code of Conduct
