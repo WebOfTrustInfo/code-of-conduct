@@ -54,7 +54,8 @@ Teams should make every effort to resolve conflicts within their group by follow
 _It's very important that this phase remain respectful and solution-oriented. If the conflict results in violations of the RWoT Code of Conduct, any person witnessing the violation should report the incident immediately to the Community Resiliency Team._
 
 1. **Lead authors should make every effort to ensure that every participant has been able to contribute to the best of their ability and that every contribution has been heard and considered before finalizing the paper.**
-2. If contributors feel there is a breakdown in process and their voices are not able to be heard, they should contact the Community Resiliency Team(CRT). The CRT will reach out to the lead author and attempt to resolve the concerns.
-3. If a contributor doesn&#39;t feel like their input has been addressed by a final paper, or that for any reason the paper doesn&#39;t represent their views, they may withdraw their name from the paper. On a case-by-case basis, the CRT may recommend dissenting contributors write a separate paper of their own.
+2. If a contributor doesn&#39;t feel like their input has been addressed by a final paper, or that for any reason the paper doesn&#39;t represent their views, they may withdraw their name from the paper and submit an alternate paper as
+long as it meets the basic paper development guidelines of RWoT.
+3. If there is an unmendable breakdown in process, or if a contributor is being harassed or feels uncomfortable with behavior in the group, they should contact the Community Resiliency Team (CRT).
 
 This is version 1.0 of the RWoT paper best practices. This is a living document and will be updated as necessary by the RWoT Community Resiliency Team.
