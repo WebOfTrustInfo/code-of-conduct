@@ -47,9 +47,10 @@ Harassment includes, but is not limited to:
 - Advocating for, or encouraging, any of the above behavior
 
 ## Enforcement
+
 If a participant engages in harassing behaviour, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender, expelling the offender from the conference, and/or calling law enforcement or other emergency services.
 
-The Community Response Team (CRT) responds to possible violations in the following manner:
+The Community Resiliency Team (CRT) responds to possible violations in the following manner:
 
 - We work to stabilize the situation 
 As soon as we get information about a possible violation of the Code of Conduct, we will immediately take any steps necessary to ensure the safety of the reporting individual, and of the community, which may include calling law enforcement or other emergency services; and/or asking the object of the report to leave the premises.
@@ -69,7 +70,7 @@ You can make a report either personally or anonymously.
 
 ### Anonymous Report
 
-You can make an anonymous report here [Wufoo form]. This DOES NOT require an email address to submit.
+You can make an anonymous report by using an [Anonymous Emailing Service](https://anonymousemail.me/) and sending an email to [concerns@weboftrust.info](mailto:concerns@weboftrust.info). This DOES NOT require an email address to submit, fill in a fake email in the form.
 
 We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 

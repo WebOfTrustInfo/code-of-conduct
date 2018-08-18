@@ -1,4 +1,4 @@
-# Rebooting Web of Trust Community Resiliency Team
+# Rebooting the Web of Trust Community Resilience
 
 ## Our documents
 
@@ -7,3 +7,4 @@
     - [RWoT Code of Conduct (Brief)](code_of_conduct_medium.md)
     - [RWoT Code of Conduct (Full)](code_of_conduct_long.md)
 - [RWoT Toronto](rwot_toronto.md)
+
