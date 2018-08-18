@@ -2,7 +2,7 @@
 
 Rebooting Web of Trust events bring together people from around the world who are committed to building a new Web of Trust based on self-sovereign principles. It is a space inclusive of persons of all backgrounds, orientations and identities. Dialogue, mutual respect and sharing are at the foundation of the decentralized web community and we expect all participants to follow these values. These guidelines help us establish collective trust and engage in productive deliberation.
 
-Your safety and comfort are our priority. If you have a query or any concerns at any point before, during or after the conference, contact us at [email].
+Your safety and comfort are our priority. If you have a query or any concerns at any point before, during or after the conference, contact us at [concerns@weboftrust.info](mailto:concerns@weboftrust.info).
 
 ## Expected Behavior
 
@@ -78,7 +78,7 @@ We can't follow up an anonymous report with you directly, but we will fully inve
 You can make a personal report by:
 
 - Contacting a CRT member, identified by CRT badges, buttons, or shirts.
-- Emailing the Community Response Team at [email]
+- Emailing the Community Response Team at [concerns@weboftrust.info](mailto:concerns@weboftrust.info)
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone and we won't tell anyone who you are.
 
