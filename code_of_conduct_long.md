@@ -21,7 +21,7 @@ Your safety and comfort are our priority. If you have a query or any concerns at
         - Follow the "Rule of 1" and the "Rule of n": When you speak, make 1 point and then let others speak, and when in a group of "n" people, speak "1/nth" of the time.
 
 
-## Anti-harassment Policy
+## Anti-harassment and Unwelcome Behavior Policy
 
 Rebooting Web of Trust is dedicated to providing a harassment-free conference experience for everyone, regardless of gender identity and expression, sexual orientation, nationality, origin, race, ethnicity, religion, age, disability, physical appearance, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers. 
 
@@ -46,21 +46,25 @@ Harassment includes, but is not limited to:
     - Served as a coordinator of a report.
 - Advocating for, or encouraging, any of the above behavior
 
+Behaviors that do not fall in the categories above, but may be experienced as dismissive and/or provocative (such as "microaggressions") should also be reported to the CRT immediately. Individuals demonstrating these behaviors will be warned, and if the situation cannot be remedied, banned from events.
+
+Even though participants may have strong disagreements, we expect professional behavior at all times. We cannot tolerate yelling or other explosive behaviors. If you feel provoked by another participant, let the CRT team know immediately and we will address it.
+
+
 ## Enforcement
 
-If a participant engages in harassing behaviour, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender, expelling the offender from the conference, and/or calling law enforcement or other emergency services.
+If a participant engages in harassing behaviour, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender, asking the offender to leave for a cooldown period, expelling the offender from the conference, and/or calling law enforcement or other emergency services.
 
 The Community Resiliency Team (CRT) responds to possible violations in the following manner:
 
-- We work to stabilize the situation 
+- **We work to stabilize the situation** 
 As soon as we get information about a possible violation of the Code of Conduct, we will immediately take any steps necessary to ensure the safety of the reporting individual, and of the community, which may include calling law enforcement or other emergency services; and/or asking the object of the report to leave the premises.
-- We initiate the review and response process 
+- **We initiate the review and response process** 
 After stabilizing the situation, and as soon as possible, our CRT will review the information that we have received, including determining whether we need additional information.
-- We determine what action is needed, including remedy 
+- **We determine what action is needed, including remedy**
 After carefully considering factors such as the content, nature, and threat level of the incident, and evaluating the available information, we will determine a course of action, including deciding whether and which remedy is appropriate. Potential remedies include warnings; removing a participant from an event; or banning a participant from future events. If a remedy or the timing of it puts the safety and confidentiality of the reporting individual(s) at risk, our team will take that into consideration and prioritize preventing further harm.
 
-
-We expect participants to follow these rules at all event venues and event-related social activities. 
+The RWOT Community Resilience Team expects participants to follow these rules at all event venues and event-related social activities. While the CRT team's scope doesn't include solving longer-term interpersonal or inter-community conflicts, we will step in if these conflicts manifest in destructive or unprofessional behavior at RWOT and related events. 
 
 ## Reporting
 
